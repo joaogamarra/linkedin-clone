@@ -1,0 +1,8 @@
+.header {
+	position: sticky;
+}
+
+.header__left > img {
+	object-fit: contain;
+	height: 40px;
+}

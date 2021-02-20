@@ -1,0 +1,11 @@
+.post {
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: white;
+}
+
+.post__header {
+	display: flex;
+	margin-bottom: 10px;
+}

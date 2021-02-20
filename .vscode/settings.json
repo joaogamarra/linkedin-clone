@@ -1,0 +1,9 @@
+{
+	"emmet.inclideLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"html-to-css-autocompletion.autocompletionFilesScope": "multi-root",
+	"html-to-css-autocompletion.getSelectorsFromFileTypes": [
+		"javascriptreact"
+	]
+}
